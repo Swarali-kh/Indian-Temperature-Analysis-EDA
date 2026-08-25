@@ -23,6 +23,17 @@ Exploratory Data Analysis (EDA) on Indian climate data covering **temperature, A
 - Correlation analysis using a heatmap
 - City-wise and season-wise temperature comparison
 
+ ## Visualizations
+
+![Temperature Trend](Screenshot%202026-07-16%20113249.png)
+![Rainfall Distribution](Screenshot%202026-07-16%20113308.png)
+![Correlation Heatmap](Screenshot%202026-07-16%20113323.png)
+![AQI Category Distribution](Screenshot%202026-07-16%20113337.png)
+![Avg Temperature by City](Screenshot%202026-07-16%20113350.png)
+![Season vs Temperature](Screenshot%202026-07-16%20113430.png)
+![Temperature vs AQI](Screenshot%202026-07-16%20113449.png)
+![Rainfall vs Humidity](Screenshot%202026-07-16%20113504.png)
+
 ## Key Insights
 - Temperature shows a clear seasonal pattern  rises in summer, dips in winter, aligning with expected seasonal climate variation
 - Rainfall distribution is heavily right-skewed most days show low/zero rainfall, with a smaller number of days showing high monsoon spikes
